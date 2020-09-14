@@ -1,0 +1,10 @@
+                <Header
+            leftComponent={{ icon: 'menu', color: '#fff' }}
+            centerComponent={{ text: 'MY TITLE', style: { color: '#fff' } }}
+            rightComponent={{ icon: 'home', color: '#fff' }}
+            />
+
+                            <ImageBackground
+                source={require('./images/bg.jpg')}
+                style={{width: '100%', height: '100%'}}>
+                </ImageBackground>
